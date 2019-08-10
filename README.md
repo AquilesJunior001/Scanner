@@ -4,10 +4,7 @@
 
 ## Sobre
 
-Este é um script desenvolvido na diciplina de **Copiladores** pelos alunos:
-* Aquiles Junior
-* Augusto Cavalcanti
-Sobre orientação do professor **Jackson Gomes**
+Este é um script desenvolvido na diciplina de **Copiladores** pelos alunos **Aquiles Junior** e **Augusto Cavalcanti**. Sobre orientação do professor **Jackson Gomes**
 
 ## Ferramentas
 
