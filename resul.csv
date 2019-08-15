@@ -1,0 +1,17 @@
+token_identificação_tamanho_posição(lin,col)
+while_palavra reservada_5_(0,0)
+i_[identificador,1]_1_(0,6)
+<_operador_1_(0,8)
+100_[numero,2]_3_(0,10)
+do_palavra reservada_2_(0,14)
+i_[identificador,1]_1_(0,17)
+=_operador_1_(0,19)
+i_[identificador,1]_1_(0,21)
++_operador_1_(0,23)
+j_[identificador,3]_1_(0,25)
+;_terminador_1_(0,26)
+
+indice_símbolo
+1_i
+2_100
+3_j
